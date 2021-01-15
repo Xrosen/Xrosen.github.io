@@ -77,6 +77,7 @@
                 });
 
             }).join('');
+
         } else {
             html = '<li class="tips"><i class="icon icon-coffee icon-3x"></i><p>Results not found!</p></li>';
         }
